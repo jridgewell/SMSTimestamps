@@ -1,0 +1,16 @@
+Package: com.gabriobarbieri.SMSTimestamps
+Version: 2.0-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 16
+Depends: mobilesubstrate
+Filename: .//debs/com.gabriobarbieri.SMSTimestamps_2.0-1_iphoneos-arm.deb
+Size: 4016
+MD5sum: f2bda36ed64d2cb3bdbd131bacd44d4c
+SHA1: 00bf2faeb86da16ed37dc04a37866c1755ac0ac4
+SHA256: ced6bd20b9d106b4ab65dcfc245580491c761cc99605ae3049a51c7e1d98ac6a
+Section: Tweaks
+Description: An SMS app tweak that makes it set a visible timestamp on ALL messages, or just some of them :) whatever you choose.
+Author: Gabrio Barbieri <gabriobarbieri@gmail.com>
+Name: SMS Timestamps
+
